@@ -1,0 +1,35 @@
+.main-container {
+  //background-image: url('../../../assets/images/neuriz_white_paper_p1.jpg');
+  height: 1040px;
+  width: 720px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+ }
+
+.center {
+  margin: auto;
+  width: 75%;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 64px;
+  color: #111aaa;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box div {
+  width: 200px;
+  height: 100px;
+  padding: 0.5em 0.5em 0.5em 0.5em;
+}
+
+.box .title {
+  margin: 0.5em 4em 0 0;
+}
